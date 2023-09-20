@@ -1,2 +1,4 @@
 # marti_ws
-ACKERMANN DIREKZIOA DUEN LAU GURPILEKO ROBOT MUGIKOR BATEN NABIGAZIO AUTONOMOA ROS2N
+Ackermann direkzioa duen lau gurpileko robot mugikor baten nabigazio autonomoa ROS 2n
+
+Irakurri `Gida_III_ROS2_Humble_Hawksbill.pdf`, bertan "marti_bot" robotaren azalpen guztiak aurki daitezke.
