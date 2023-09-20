@@ -12,7 +12,7 @@ find_package(ament_cmake REQUIRED)
 # find_package(<dependency> REQUIRED)
 
 install(
-DIRECTORY src launch rviz deskribapena worlds params
+DIRECTORY launch rviz deskribapena worlds params
 DESTINATION share/${PROJECT_NAME}
 )
 
